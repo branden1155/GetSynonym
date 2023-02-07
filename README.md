@@ -1,0 +1,1 @@
+Simple Get Synonym pulled from input and retrieved synonym via POSTing to an API.
